@@ -2,7 +2,7 @@
 
 This repository contains R code required to replicate the typological analyses reported in the following publication:
 
-> Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & Stephen Nichols (s.a.) States and changes-of-state: a cross-linguistic study of the roots of verbal meaning.
+> Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & Stephen Nichols (under review) States and changes-of-state: a cross-linguistic study of the roots of verbal meaning.
 
 The raw data come from <https://verbal-roots.la.utexas.edu/>.
 
@@ -10,14 +10,12 @@ The raw data come from <https://verbal-roots.la.utexas.edu/>.
 ## Repository contents
 
 * `clean.sh`: Shell script used to remove all results (to start from scratch)
-* `collect_paperfigs.sh`: Shell script used to collect figures for paper in folder `paperfigs`
 * `data`: Data, both raw (a tab-separated file) and in RData format prepared for the analyses
-* `paperfigs`: Figures for the paper; a subset of the plots and tables in `plots` and `tables`
 * `plots`: Figures
 * `R`: Sources of scripts for all analyses
 * `README.md`: This file
 * `results`: Results of analyses are saved in this folder
-* `Rsession`: Default folder to run an R session in
+* `Rsession`: Default folder to run an R session in (to keep the `R` folder free of data and history files)
 * `stats`: Results of statistical tests
 * `tables`: Data tables in TeX format
 
@@ -31,7 +29,7 @@ The overall logic of the scripts is as follows. First, raw data, which exists as
 
 ### Main analysis
 
-To reproduce the main analysis, navigate to the `Rsession` folder and issue the following commands from R:
+To reproduce the main analysis, navigate to the `Rsession` folder and issue the following commands in an R session:
 
 ``` r
 source("../R/batch_main_analysis.R")
@@ -59,6 +57,14 @@ source("../R/batch_monte_carlo.R")
 print_monte_carlo()
 ```
 
+This takes about 2 minutes.
+
+
+## Technical note
+
+The above has been tested on Ubuntu 20.04 LTS running R version 3.6.3. Please file an [issue](issues) if you find a bug.
+
+
 ## Acknowledgements
 
 This material is based upon work supported by the National Science Foundation under grant no. BCS-1451765; the Federal Ministry of Education and Research (BMBF) and the Baden-Württemberg Ministry of Science as part of the Excellence Strategy of the German Federal and State Governments; The Ella and Georg Ehrnrooth Foundation; and Emil Aaltonen Foundation.
@@ -68,4 +74,4 @@ This material is based upon work supported by the National Science Foundation un
 
 All code in this repository is licensed under [GNU GPL-3](LICENSE). If you use it in your work, please provide a link to <https://github.com/hkauhanen/verbal-roots> and cite the following publication:
 
-> Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & Stephen Nichols (s.a.) States and changes-of-state: a cross-linguistic study of the roots of verbal meaning.
+> Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & Stephen Nichols (under review) States and changes-of-state: a cross-linguistic study of the roots of verbal meaning.
