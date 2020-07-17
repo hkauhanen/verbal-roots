@@ -62,7 +62,7 @@ This takes about 2 minutes.
 
 ## Technical note
 
-The above has been tested on Ubuntu 20.04 LTS running R version 3.6.3. Please file an [issue](issues) if you find a bug.
+The above has been tested on Ubuntu 20.04 LTS running R version 3.6.3. Please file an [issue](https://github.com/hkauhanen/verbal-roots/issues) if you find a bug.
 
 
 ## Acknowledgements
