@@ -59,6 +59,10 @@ source("../R/batch_monte_carlo.R")
 print_monte_carlo()
 ```
 
+## Acknowledgements
+
+This material is based upon work supported by the National Science Foundation under grant no. BCS-1451765; the Federal Ministry of Education and Research (BMBF) and the Baden-Württemberg Ministry of Science as part of the Excellence Strategy of the German Federal and State Governments; The Ella and Georg Ehrnrooth Foundation; and Emil Aaltonen Foundation.
+
 
 ## License and how to cite
 
