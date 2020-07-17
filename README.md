@@ -57,7 +57,7 @@ source("../R/batch_monte_carlo.R")
 print_monte_carlo()
 ```
 
-This takes about 2 minutes.
+This takes about 1½ minutes.
 
 
 ## Technical note
