@@ -1,0 +1,3 @@
+markedness_C, wo_hyps
+Min. p-value: 2.62652469838174e-10
+Max. p-value: 1.19783945582891e-08
