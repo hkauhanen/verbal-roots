@@ -8,7 +8,7 @@
 main_analysis <- function(outfile = "../results/filled_counts.RData",
                           data_objects = "../data/prepared.RData") {
   # Load data objects
-  load("../data/prepared.RData")
+  load(data_objects)
 
   # Prepare results list
   res <- vector("list", 2)
