@@ -3,10 +3,12 @@
 This folder contains R scripts required to replicate the analyses. The main analyses can be run using the batch function in `batch_main_analysis.R`; `batch_monte_carlo.R` wraps this in a loop for the synonym analyses (see `README.md` in the parent folder for more details). Each of these two files calls functions defined in the following files, one function per file in most cases, except for `plotting.R`, which defines several plotting routines.
 
 * `batch_main_analysis.R`: Batch file for main analyses.
+* `batch_main_analysis_ignore_low.R`: Batch file for main analyses, ignoring low data languages.
 * `batch_monte_carlo.R`: Batch file for Monte Carlo runs.
 * `column_filled.R`: Figure out proportion of languages for which a given column is filled.
 * `debug_classes.R`: Find typos in the coding of root classes and narrow root classes.
 * `factor2character.R`: Turn a factor into a character vector (i.e. forget the levels).
+* `ignore_low_data.R`: Drop low-data languages from the data set.
 * `main_analysis.R`: Main analysis.
 * `mann_whitney_U.R`: Mann-Whitney U test.
 * `monte_carlo.R`: Monte Carlo runs.
