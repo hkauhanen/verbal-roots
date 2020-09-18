@@ -11,6 +11,7 @@ The raw data come from <https://verbal-roots.la.utexas.edu/>.
 
 * `clean.sh`: Shell script used to remove all results (to start from scratch)
 * `data`: Data, both raw (a tab-separated file) and in RData format prepared for the analyses
+* `nolow`: Results of analyses after low data languages have been removed (see below)
 * `plots`: Figures
 * `R`: Sources of scripts for all analyses
 * `README.md`: This file
@@ -37,6 +38,17 @@ batch_main_analysis()
 ```
 
 This will prepare the data, carry out the analyses (with and without hypothetical forms), and put the results in the `results`, `stats`, `plots` and `tables` folders. Runtime is on the order of 3 minutes on a typical computer, the bulk of which is consumed by preparing the data for the different data conditions.
+
+#### Ignore low data languages
+
+It is also possible to run the analyses without taking low-data languages into account. Again, from an R session in the `Rsession` folder:
+
+``` r
+source("../R/batch_main_analysis_ignore_low.R")
+batch_main_analysis_ignore_low()
+```
+
+The output is into subfolders of the `nolow` directory.
 
 
 ### Monte Carlo runs
