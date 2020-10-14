@@ -9,7 +9,7 @@ Means
 -----
 
 PC roots:	0.257987694988769
-result roots:	0.26484835584036
+result roots:	0.264627897286568
 
 
 Mann-Whitney U-test (two-tailed)
@@ -17,10 +17,10 @@ Mann-Whitney U-test (two-tailed)
 
 Null hypothesis: The distribution of PC roots is not different from the distribution of result roots
 
-U = 684.5
+U = 686.5
 n1 = 36
 n2 = 36
-p = 0.685147538952985
+p = 0.668670131795737
 Decision (at the p < 0.001 level): Do not reject null hypothesis
 
 
@@ -29,10 +29,10 @@ Mann-Whitney U-test (one-tailed in the expected direction)
 
 Null hypothesis: The distribution of PC roots is not higher than (not shifted towards 1 relative to) the distribution of result roots
 
-U = 684.5
+U = 686.5
 n1 = 36
 n2 = 36
-p = 0.342573769476492
+p = 0.334335065897869
 Decision (at the p < 0.001 level): Do not reject null hypothesis
 
 
@@ -41,10 +41,10 @@ Mann-Whitney U-test (one-tailed in the unexpected direction)
 
 Null hypothesis: The distribution of PC roots is not lower than (not shifted towards 0 relative to) the distribution of result roots
 
-U = 684.5
+U = 686.5
 n1 = 36
 n2 = 36
-p = 0.661555248664077
+p = 0.669754858549664
 Decision (at the p < 0.001 level): Do not reject null hypothesis
 
 

@@ -1,0 +1,1129 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.7.2)  14 OCT 2020 11:34
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**printplots.tex
+(./printplots.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box45
+)
+(./printplots.aux)
+\openout1 = `printplots.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count176
+\scratchdimen=\dimen137
+\scratchbox=\box46
+\nofMPsegments=\count177
+\nofMParguments=\count178
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count179
+\MPscratchDim=\dimen138
+\MPnumerator=\count180
+\makeMPintoPDFobject=\count181
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(./texcontents.tex
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+<../plots/boxplot-markedness-A-with-hyps.pdf, id=1, 433.62pt x 108.405pt>
+File: ../plots/boxplot-markedness-A-with-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-markedness-A-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-markedness-A-with-hyps.pdf  used on i
+nput line 7.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 7--8
+[][] 
+ []
+
+<../nolow/plots/boxplot-markedness-A-with-hyps.pdf, id=2, 433.62pt x 108.405pt>
+
+File: ../nolow/plots/boxplot-markedness-A-with-hyps.pdf Graphic file (type pdf)
+
+<use ../nolow/plots/boxplot-markedness-A-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-markedness-A-with-hyps.pdf  use
+d on input line 13.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 13--14
+[][] 
+ []
+
+<../nodia/plots/boxplot-markedness-A-with-hyps.pdf, id=3, 433.62pt x 108.405pt>
+
+File: ../nodia/plots/boxplot-markedness-A-with-hyps.pdf Graphic file (type pdf)
+
+<use ../nodia/plots/boxplot-markedness-A-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-markedness-A-with-hyps.pdf  use
+d on input line 19.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 19--20
+[][] 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../plots/boxplot-markednes
+s-A-with-hyps.pdf> <../nolow/plots/boxplot-markedness-A-with-hyps.pdf> <../nodi
+a/plots/boxplot-markedness-A-with-hyps.pdf>]
+<../plots/boxplot-markedness-A-wo-hyps.pdf, id=37, 433.62pt x 108.405pt>
+File: ../plots/boxplot-markedness-A-wo-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-markedness-A-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-markedness-A-wo-hyps.pdf  used on inp
+ut line 29.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 29--30
+[][] 
+ []
+
+<../nolow/plots/boxplot-markedness-A-wo-hyps.pdf, id=38, 433.62pt x 108.405pt>
+File: ../nolow/plots/boxplot-markedness-A-wo-hyps.pdf Graphic file (type pdf)
+<use ../nolow/plots/boxplot-markedness-A-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-markedness-A-wo-hyps.pdf  used 
+on input line 35.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 35--36
+[][] 
+ []
+
+<../nodia/plots/boxplot-markedness-A-wo-hyps.pdf, id=39, 433.62pt x 108.405pt>
+File: ../nodia/plots/boxplot-markedness-A-wo-hyps.pdf Graphic file (type pdf)
+<use ../nodia/plots/boxplot-markedness-A-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-markedness-A-wo-hyps.pdf  used 
+on input line 41.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 41--42
+[][] 
+ []
+
+[2 <../plots/boxplot-markedness-A-wo-hyps.pdf> <../nolow/plots/boxplot-markedne
+ss-A-wo-hyps.pdf> <../nodia/plots/boxplot-markedness-A-wo-hyps.pdf>]
+<../plots/boxplot-markedness-B-with-hyps.pdf, id=67, 433.62pt x 108.405pt>
+File: ../plots/boxplot-markedness-B-with-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-markedness-B-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-markedness-B-with-hyps.pdf  used on i
+nput line 51.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 51--52
+[][] 
+ []
+
+<../nolow/plots/boxplot-markedness-B-with-hyps.pdf, id=68, 433.62pt x 108.405pt
+>
+File: ../nolow/plots/boxplot-markedness-B-with-hyps.pdf Graphic file (type pdf)
+
+<use ../nolow/plots/boxplot-markedness-B-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-markedness-B-with-hyps.pdf  use
+d on input line 57.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 57--58
+[][] 
+ []
+
+<../nodia/plots/boxplot-markedness-B-with-hyps.pdf, id=69, 433.62pt x 108.405pt
+>
+File: ../nodia/plots/boxplot-markedness-B-with-hyps.pdf Graphic file (type pdf)
+
+<use ../nodia/plots/boxplot-markedness-B-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-markedness-B-with-hyps.pdf  use
+d on input line 63.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 63--64
+[][] 
+ []
+
+[3 <../plots/boxplot-markedness-B-with-hyps.pdf> <../nolow/plots/boxplot-marked
+ness-B-with-hyps.pdf> <../nodia/plots/boxplot-markedness-B-with-hyps.pdf>]
+<../plots/boxplot-markedness-B-wo-hyps.pdf, id=97, 433.62pt x 108.405pt>
+File: ../plots/boxplot-markedness-B-wo-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-markedness-B-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-markedness-B-wo-hyps.pdf  used on inp
+ut line 73.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 73--74
+[][] 
+ []
+
+<../nolow/plots/boxplot-markedness-B-wo-hyps.pdf, id=98, 433.62pt x 108.405pt>
+File: ../nolow/plots/boxplot-markedness-B-wo-hyps.pdf Graphic file (type pdf)
+<use ../nolow/plots/boxplot-markedness-B-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-markedness-B-wo-hyps.pdf  used 
+on input line 79.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 79--80
+[][] 
+ []
+
+<../nodia/plots/boxplot-markedness-B-wo-hyps.pdf, id=99, 433.62pt x 108.405pt>
+File: ../nodia/plots/boxplot-markedness-B-wo-hyps.pdf Graphic file (type pdf)
+<use ../nodia/plots/boxplot-markedness-B-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-markedness-B-wo-hyps.pdf  used 
+on input line 85.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 85--86
+[][] 
+ []
+
+[4 <../plots/boxplot-markedness-B-wo-hyps.pdf> <../nolow/plots/boxplot-markedne
+ss-B-wo-hyps.pdf> <../nodia/plots/boxplot-markedness-B-wo-hyps.pdf>]
+<../plots/boxplot-markedness-C-with-hyps.pdf, id=127, 433.62pt x 108.405pt>
+File: ../plots/boxplot-markedness-C-with-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-markedness-C-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-markedness-C-with-hyps.pdf  used on i
+nput line 95.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 95--96
+[][] 
+ []
+
+<../nolow/plots/boxplot-markedness-C-with-hyps.pdf, id=128, 433.62pt x 108.405p
+t>
+File: ../nolow/plots/boxplot-markedness-C-with-hyps.pdf Graphic file (type pdf)
+
+<use ../nolow/plots/boxplot-markedness-C-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-markedness-C-with-hyps.pdf  use
+d on input line 101.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 101--102
+[][] 
+ []
+
+<../nodia/plots/boxplot-markedness-C-with-hyps.pdf, id=129, 433.62pt x 108.405p
+t>
+File: ../nodia/plots/boxplot-markedness-C-with-hyps.pdf Graphic file (type pdf)
+
+<use ../nodia/plots/boxplot-markedness-C-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-markedness-C-with-hyps.pdf  use
+d on input line 107.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 107--108
+[][] 
+ []
+
+[5 <../plots/boxplot-markedness-C-with-hyps.pdf> <../nolow/plots/boxplot-marked
+ness-C-with-hyps.pdf> <../nodia/plots/boxplot-markedness-C-with-hyps.pdf>]
+<../plots/boxplot-markedness-C-wo-hyps.pdf, id=158, 433.62pt x 108.405pt>
+File: ../plots/boxplot-markedness-C-wo-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-markedness-C-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-markedness-C-wo-hyps.pdf  used on inp
+ut line 117.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 117--118
+[][] 
+ []
+
+<../nolow/plots/boxplot-markedness-C-wo-hyps.pdf, id=159, 433.62pt x 108.405pt>
+
+File: ../nolow/plots/boxplot-markedness-C-wo-hyps.pdf Graphic file (type pdf)
+<use ../nolow/plots/boxplot-markedness-C-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-markedness-C-wo-hyps.pdf  used 
+on input line 123.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 123--124
+[][] 
+ []
+
+<../nodia/plots/boxplot-markedness-C-wo-hyps.pdf, id=160, 433.62pt x 108.405pt>
+
+File: ../nodia/plots/boxplot-markedness-C-wo-hyps.pdf Graphic file (type pdf)
+<use ../nodia/plots/boxplot-markedness-C-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-markedness-C-wo-hyps.pdf  used 
+on input line 129.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 129--130
+[][] 
+ []
+
+[6 <../plots/boxplot-markedness-C-wo-hyps.pdf> <../nolow/plots/boxplot-markedne
+ss-C-wo-hyps.pdf> <../nodia/plots/boxplot-markedness-C-wo-hyps.pdf>]
+<../plots/boxplot-markedness-D-with-hyps.pdf, id=188, 433.62pt x 108.405pt>
+File: ../plots/boxplot-markedness-D-with-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-markedness-D-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-markedness-D-with-hyps.pdf  used on i
+nput line 139.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 139--140
+[][] 
+ []
+
+<../nolow/plots/boxplot-markedness-D-with-hyps.pdf, id=189, 433.62pt x 108.405p
+t>
+File: ../nolow/plots/boxplot-markedness-D-with-hyps.pdf Graphic file (type pdf)
+
+<use ../nolow/plots/boxplot-markedness-D-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-markedness-D-with-hyps.pdf  use
+d on input line 145.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 145--146
+[][] 
+ []
+
+<../nodia/plots/boxplot-markedness-D-with-hyps.pdf, id=190, 433.62pt x 108.405p
+t>
+File: ../nodia/plots/boxplot-markedness-D-with-hyps.pdf Graphic file (type pdf)
+
+<use ../nodia/plots/boxplot-markedness-D-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-markedness-D-with-hyps.pdf  use
+d on input line 151.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 151--152
+[][] 
+ []
+
+[7 <../plots/boxplot-markedness-D-with-hyps.pdf> <../nolow/plots/boxplot-marked
+ness-D-with-hyps.pdf> <../nodia/plots/boxplot-markedness-D-with-hyps.pdf>]
+<../plots/boxplot-markedness-D-wo-hyps.pdf, id=219, 433.62pt x 108.405pt>
+File: ../plots/boxplot-markedness-D-wo-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-markedness-D-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-markedness-D-wo-hyps.pdf  used on inp
+ut line 161.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 161--162
+[][] 
+ []
+
+<../nolow/plots/boxplot-markedness-D-wo-hyps.pdf, id=220, 433.62pt x 108.405pt>
+
+File: ../nolow/plots/boxplot-markedness-D-wo-hyps.pdf Graphic file (type pdf)
+<use ../nolow/plots/boxplot-markedness-D-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-markedness-D-wo-hyps.pdf  used 
+on input line 167.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 167--168
+[][] 
+ []
+
+<../nodia/plots/boxplot-markedness-D-wo-hyps.pdf, id=221, 433.62pt x 108.405pt>
+
+File: ../nodia/plots/boxplot-markedness-D-wo-hyps.pdf Graphic file (type pdf)
+<use ../nodia/plots/boxplot-markedness-D-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-markedness-D-wo-hyps.pdf  used 
+on input line 173.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 173--174
+[][] 
+ []
+
+[8 <../plots/boxplot-markedness-D-wo-hyps.pdf> <../nolow/plots/boxplot-markedne
+ss-D-wo-hyps.pdf> <../nodia/plots/boxplot-markedness-D-wo-hyps.pdf>]
+Overfull \hbox (1.73633pt too wide) in paragraph at lines 177--177
+[]\T1/cmr/bx/n/17.28 boxplot-morphology-corrected-with-hyps.pdf 
+ []
+
+<../plots/boxplot-morphology-corrected-with-hyps.pdf, id=249, 433.62pt x 108.40
+5pt>
+File: ../plots/boxplot-morphology-corrected-with-hyps.pdf Graphic file (type pd
+f)
+<use ../plots/boxplot-morphology-corrected-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-morphology-corrected-with-hyps.pdf  u
+sed on input line 183.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 183--184
+[][] 
+ []
+
+<../nolow/plots/boxplot-morphology-corrected-with-hyps.pdf, id=250, 433.62pt x 
+108.405pt>
+File: ../nolow/plots/boxplot-morphology-corrected-with-hyps.pdf Graphic file (t
+ype pdf)
+<use ../nolow/plots/boxplot-morphology-corrected-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-morphology-corrected-with-hyps.
+pdf  used on input line 189.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 189--190
+[][] 
+ []
+
+<../nodia/plots/boxplot-morphology-corrected-with-hyps.pdf, id=251, 433.62pt x 
+108.405pt>
+File: ../nodia/plots/boxplot-morphology-corrected-with-hyps.pdf Graphic file (t
+ype pdf)
+<use ../nodia/plots/boxplot-morphology-corrected-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-morphology-corrected-with-hyps.
+pdf  used on input line 195.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 195--196
+[][] 
+ []
+
+[9 <../plots/boxplot-morphology-corrected-with-hyps.pdf> <../nolow/plots/boxplo
+t-morphology-corrected-with-hyps.pdf> <../nodia/plots/boxplot-morphology-correc
+ted-with-hyps.pdf>]
+<../plots/boxplot-morphology-corrected-wo-hyps.pdf, id=280, 433.62pt x 108.405p
+t>
+File: ../plots/boxplot-morphology-corrected-wo-hyps.pdf Graphic file (type pdf)
+
+<use ../plots/boxplot-morphology-corrected-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-morphology-corrected-wo-hyps.pdf  use
+d on input line 205.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 205--206
+[][] 
+ []
+
+<../nolow/plots/boxplot-morphology-corrected-wo-hyps.pdf, id=281, 433.62pt x 10
+8.405pt>
+File: ../nolow/plots/boxplot-morphology-corrected-wo-hyps.pdf Graphic file (typ
+e pdf)
+<use ../nolow/plots/boxplot-morphology-corrected-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-morphology-corrected-wo-hyps.pd
+f  used on input line 211.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 211--212
+[][] 
+ []
+
+<../nodia/plots/boxplot-morphology-corrected-wo-hyps.pdf, id=282, 433.62pt x 10
+8.405pt>
+File: ../nodia/plots/boxplot-morphology-corrected-wo-hyps.pdf Graphic file (typ
+e pdf)
+<use ../nodia/plots/boxplot-morphology-corrected-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-morphology-corrected-wo-hyps.pd
+f  used on input line 217.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 217--218
+[][] 
+ []
+
+[10 <../plots/boxplot-morphology-corrected-wo-hyps.pdf> <../nolow/plots/boxplot
+-morphology-corrected-wo-hyps.pdf> <../nodia/plots/boxplot-morphology-corrected
+-wo-hyps.pdf>]
+<../plots/boxplot-plain-with-hyps.pdf, id=310, 433.62pt x 108.405pt>
+File: ../plots/boxplot-plain-with-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-plain-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-plain-with-hyps.pdf  used on input li
+ne 227.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 227--228
+[][] 
+ []
+
+<../nolow/plots/boxplot-plain-with-hyps.pdf, id=311, 433.62pt x 108.405pt>
+File: ../nolow/plots/boxplot-plain-with-hyps.pdf Graphic file (type pdf)
+<use ../nolow/plots/boxplot-plain-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-plain-with-hyps.pdf  used on in
+put line 233.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 233--234
+[][] 
+ []
+
+<../nodia/plots/boxplot-plain-with-hyps.pdf, id=312, 433.62pt x 108.405pt>
+File: ../nodia/plots/boxplot-plain-with-hyps.pdf Graphic file (type pdf)
+<use ../nodia/plots/boxplot-plain-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-plain-with-hyps.pdf  used on in
+put line 239.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 239--240
+[][] 
+ []
+
+[11 <../plots/boxplot-plain-with-hyps.pdf> <../nolow/plots/boxplot-plain-with-h
+yps.pdf> <../nodia/plots/boxplot-plain-with-hyps.pdf>]
+<../plots/boxplot-plain-wo-hyps.pdf, id=340, 433.62pt x 108.405pt>
+File: ../plots/boxplot-plain-wo-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-plain-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-plain-wo-hyps.pdf  used on input line
+ 249.
+(pdftex.def)             Requested size: 382.19833pt x 95.55382pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 249--250
+[][] 
+ []
+
+<../nolow/plots/boxplot-plain-wo-hyps.pdf, id=341, 433.62pt x 108.405pt>
+File: ../nolow/plots/boxplot-plain-wo-hyps.pdf Graphic file (type pdf)
+<use ../nolow/plots/boxplot-plain-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-plain-wo-hyps.pdf  used on inpu
+t line 255.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 255--256
+[][] 
+ []
+
+<../nodia/plots/boxplot-plain-wo-hyps.pdf, id=342, 433.62pt x 108.405pt>
+File: ../nodia/plots/boxplot-plain-wo-hyps.pdf Graphic file (type pdf)
+<use ../nodia/plots/boxplot-plain-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-plain-wo-hyps.pdf  used on inpu
+t line 261.
+(pdftex.def)             Requested size: 390.0pt x 97.50403pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 261--262
+[][] 
+ []
+
+[12 <../plots/boxplot-plain-wo-hyps.pdf> <../nolow/plots/boxplot-plain-wo-hyps.
+pdf> <../nodia/plots/boxplot-plain-wo-hyps.pdf>]
+Overfull \hbox (19.918pt too wide) in paragraph at lines 265--265
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-markedness-A-with-hyps.pdf 
+ []
+
+<../plots/boxplot-subclass-markedness-A-with-hyps.pdf, id=370, 433.62pt x 433.6
+2pt>
+File: ../plots/boxplot-subclass-markedness-A-with-hyps.pdf Graphic file (type p
+df)
+<use ../plots/boxplot-subclass-markedness-A-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-markedness-A-with-hyps.pdf  
+used on input line 271.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 271--272
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-markedness-A-with-hyps.pdf, id=371, 433.62pt x
+ 433.62pt>
+File: ../nolow/plots/boxplot-subclass-markedness-A-with-hyps.pdf Graphic file (
+type pdf)
+<use ../nolow/plots/boxplot-subclass-markedness-A-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-markedness-A-with-hyps
+.pdf  used on input line 277.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 277--278
+[][] 
+ []
+
+[13 <../plots/boxplot-subclass-markedness-A-with-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-markedness-A-with-hyps.pdf, id=384, 433.62pt x
+ 433.62pt>
+File: ../nodia/plots/boxplot-subclass-markedness-A-with-hyps.pdf Graphic file (
+type pdf)
+<use ../nodia/plots/boxplot-subclass-markedness-A-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-markedness-A-with-hyps
+.pdf  used on input line 283.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 283--284
+[][] 
+ []
+
+[14 <../nolow/plots/boxplot-subclass-markedness-A-with-hyps.pdf>] [15 <../nodia
+/plots/boxplot-subclass-markedness-A-with-hyps.pdf>]
+Overfull \hbox (5.93533pt too wide) in paragraph at lines 287--287
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-markedness-A-wo-hyps.pdf 
+ []
+
+<../plots/boxplot-subclass-markedness-A-wo-hyps.pdf, id=408, 433.62pt x 433.62p
+t>
+File: ../plots/boxplot-subclass-markedness-A-wo-hyps.pdf Graphic file (type pdf
+)
+<use ../plots/boxplot-subclass-markedness-A-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-markedness-A-wo-hyps.pdf  us
+ed on input line 293.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 293--294
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-markedness-A-wo-hyps.pdf, id=409, 433.62pt x 4
+33.62pt>
+File: ../nolow/plots/boxplot-subclass-markedness-A-wo-hyps.pdf Graphic file (ty
+pe pdf)
+<use ../nolow/plots/boxplot-subclass-markedness-A-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-markedness-A-wo-hyps.p
+df  used on input line 299.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 299--300
+[][] 
+ []
+
+[16 <../plots/boxplot-subclass-markedness-A-wo-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-markedness-A-wo-hyps.pdf, id=421, 433.62pt x 4
+33.62pt>
+File: ../nodia/plots/boxplot-subclass-markedness-A-wo-hyps.pdf Graphic file (ty
+pe pdf)
+<use ../nodia/plots/boxplot-subclass-markedness-A-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-markedness-A-wo-hyps.p
+df  used on input line 305.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 305--306
+[][] 
+ []
+
+[17 <../nolow/plots/boxplot-subclass-markedness-A-wo-hyps.pdf>] [18 <../nodia/p
+lots/boxplot-subclass-markedness-A-wo-hyps.pdf>]
+Overfull \hbox (19.09729pt too wide) in paragraph at lines 309--309
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-markedness-B-with-hyps.pdf 
+ []
+
+<../plots/boxplot-subclass-markedness-B-with-hyps.pdf, id=444, 433.62pt x 433.6
+2pt>
+File: ../plots/boxplot-subclass-markedness-B-with-hyps.pdf Graphic file (type p
+df)
+<use ../plots/boxplot-subclass-markedness-B-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-markedness-B-with-hyps.pdf  
+used on input line 315.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 315--316
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-markedness-B-with-hyps.pdf, id=445, 433.62pt x
+ 433.62pt>
+File: ../nolow/plots/boxplot-subclass-markedness-B-with-hyps.pdf Graphic file (
+type pdf)
+<use ../nolow/plots/boxplot-subclass-markedness-B-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-markedness-B-with-hyps
+.pdf  used on input line 321.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 321--322
+[][] 
+ []
+
+[19 <../plots/boxplot-subclass-markedness-B-with-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-markedness-B-with-hyps.pdf, id=458, 433.62pt x
+ 433.62pt>
+File: ../nodia/plots/boxplot-subclass-markedness-B-with-hyps.pdf Graphic file (
+type pdf)
+<use ../nodia/plots/boxplot-subclass-markedness-B-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-markedness-B-with-hyps
+.pdf  used on input line 327.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 327--328
+[][] 
+ []
+
+[20 <../nolow/plots/boxplot-subclass-markedness-B-with-hyps.pdf>] [21 <../nodia
+/plots/boxplot-subclass-markedness-B-with-hyps.pdf>]
+Overfull \hbox (5.11462pt too wide) in paragraph at lines 331--331
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-markedness-B-wo-hyps.pdf 
+ []
+
+<../plots/boxplot-subclass-markedness-B-wo-hyps.pdf, id=481, 433.62pt x 433.62p
+t>
+File: ../plots/boxplot-subclass-markedness-B-wo-hyps.pdf Graphic file (type pdf
+)
+<use ../plots/boxplot-subclass-markedness-B-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-markedness-B-wo-hyps.pdf  us
+ed on input line 337.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 337--338
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-markedness-B-wo-hyps.pdf, id=482, 433.62pt x 4
+33.62pt>
+File: ../nolow/plots/boxplot-subclass-markedness-B-wo-hyps.pdf Graphic file (ty
+pe pdf)
+<use ../nolow/plots/boxplot-subclass-markedness-B-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-markedness-B-wo-hyps.p
+df  used on input line 343.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 343--344
+[][] 
+ []
+
+[22 <../plots/boxplot-subclass-markedness-B-wo-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-markedness-B-wo-hyps.pdf, id=494, 433.62pt x 4
+33.62pt>
+File: ../nodia/plots/boxplot-subclass-markedness-B-wo-hyps.pdf Graphic file (ty
+pe pdf)
+<use ../nodia/plots/boxplot-subclass-markedness-B-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-markedness-B-wo-hyps.p
+df  used on input line 349.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 349--350
+[][] 
+ []
+
+[23 <../nolow/plots/boxplot-subclass-markedness-B-wo-hyps.pdf>] [24 <../nodia/p
+lots/boxplot-subclass-markedness-B-wo-hyps.pdf>]
+Overfull \hbox (19.31233pt too wide) in paragraph at lines 353--353
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-markedness-C-with-hyps.pdf 
+ []
+
+<../plots/boxplot-subclass-markedness-C-with-hyps.pdf, id=517, 433.62pt x 433.6
+2pt>
+File: ../plots/boxplot-subclass-markedness-C-with-hyps.pdf Graphic file (type p
+df)
+<use ../plots/boxplot-subclass-markedness-C-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-markedness-C-with-hyps.pdf  
+used on input line 359.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 359--360
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-markedness-C-with-hyps.pdf, id=518, 433.62pt x
+ 433.62pt>
+File: ../nolow/plots/boxplot-subclass-markedness-C-with-hyps.pdf Graphic file (
+type pdf)
+<use ../nolow/plots/boxplot-subclass-markedness-C-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-markedness-C-with-hyps
+.pdf  used on input line 365.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 365--366
+[][] 
+ []
+
+[25 <../plots/boxplot-subclass-markedness-C-with-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-markedness-C-with-hyps.pdf, id=531, 433.62pt x
+ 433.62pt>
+File: ../nodia/plots/boxplot-subclass-markedness-C-with-hyps.pdf Graphic file (
+type pdf)
+<use ../nodia/plots/boxplot-subclass-markedness-C-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-markedness-C-with-hyps
+.pdf  used on input line 371.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 371--372
+[][] 
+ []
+
+[26 <../nolow/plots/boxplot-subclass-markedness-C-with-hyps.pdf>] [27 <../nodia
+/plots/boxplot-subclass-markedness-C-with-hyps.pdf>]
+Overfull \hbox (5.32967pt too wide) in paragraph at lines 375--375
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-markedness-C-wo-hyps.pdf 
+ []
+
+<../plots/boxplot-subclass-markedness-C-wo-hyps.pdf, id=555, 433.62pt x 433.62p
+t>
+File: ../plots/boxplot-subclass-markedness-C-wo-hyps.pdf Graphic file (type pdf
+)
+<use ../plots/boxplot-subclass-markedness-C-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-markedness-C-wo-hyps.pdf  us
+ed on input line 381.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 381--382
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-markedness-C-wo-hyps.pdf, id=556, 433.62pt x 4
+33.62pt>
+File: ../nolow/plots/boxplot-subclass-markedness-C-wo-hyps.pdf Graphic file (ty
+pe pdf)
+<use ../nolow/plots/boxplot-subclass-markedness-C-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-markedness-C-wo-hyps.p
+df  used on input line 387.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 387--388
+[][] 
+ []
+
+[28 <../plots/boxplot-subclass-markedness-C-wo-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-markedness-C-wo-hyps.pdf, id=568, 433.62pt x 4
+33.62pt>
+File: ../nodia/plots/boxplot-subclass-markedness-C-wo-hyps.pdf Graphic file (ty
+pe pdf)
+<use ../nodia/plots/boxplot-subclass-markedness-C-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-markedness-C-wo-hyps.p
+df  used on input line 393.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 393--394
+[][] 
+ []
+
+[29 <../nolow/plots/boxplot-subclass-markedness-C-wo-hyps.pdf>] [30 <../nodia/p
+lots/boxplot-subclass-markedness-C-wo-hyps.pdf>]
+Overfull \hbox (20.13306pt too wide) in paragraph at lines 397--397
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-markedness-D-with-hyps.pdf 
+ []
+
+<../plots/boxplot-subclass-markedness-D-with-hyps.pdf, id=591, 433.62pt x 433.6
+2pt>
+File: ../plots/boxplot-subclass-markedness-D-with-hyps.pdf Graphic file (type p
+df)
+<use ../plots/boxplot-subclass-markedness-D-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-markedness-D-with-hyps.pdf  
+used on input line 403.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 403--404
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-markedness-D-with-hyps.pdf, id=592, 433.62pt x
+ 433.62pt>
+File: ../nolow/plots/boxplot-subclass-markedness-D-with-hyps.pdf Graphic file (
+type pdf)
+<use ../nolow/plots/boxplot-subclass-markedness-D-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-markedness-D-with-hyps
+.pdf  used on input line 409.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 409--410
+[][] 
+ []
+
+[31 <../plots/boxplot-subclass-markedness-D-with-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-markedness-D-with-hyps.pdf, id=605, 433.62pt x
+ 433.62pt>
+File: ../nodia/plots/boxplot-subclass-markedness-D-with-hyps.pdf Graphic file (
+type pdf)
+<use ../nodia/plots/boxplot-subclass-markedness-D-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-markedness-D-with-hyps
+.pdf  used on input line 415.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 415--416
+[][] 
+ []
+
+[32 <../nolow/plots/boxplot-subclass-markedness-D-with-hyps.pdf>] [33 <../nodia
+/plots/boxplot-subclass-markedness-D-with-hyps.pdf>]
+Overfull \hbox (6.15039pt too wide) in paragraph at lines 419--419
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-markedness-D-wo-hyps.pdf 
+ []
+
+<../plots/boxplot-subclass-markedness-D-wo-hyps.pdf, id=628, 433.62pt x 433.62p
+t>
+File: ../plots/boxplot-subclass-markedness-D-wo-hyps.pdf Graphic file (type pdf
+)
+<use ../plots/boxplot-subclass-markedness-D-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-markedness-D-wo-hyps.pdf  us
+ed on input line 425.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 425--426
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-markedness-D-wo-hyps.pdf, id=629, 433.62pt x 4
+33.62pt>
+File: ../nolow/plots/boxplot-subclass-markedness-D-wo-hyps.pdf Graphic file (ty
+pe pdf)
+<use ../nolow/plots/boxplot-subclass-markedness-D-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-markedness-D-wo-hyps.p
+df  used on input line 431.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 431--432
+[][] 
+ []
+
+[34 <../plots/boxplot-subclass-markedness-D-wo-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-markedness-D-wo-hyps.pdf, id=641, 433.62pt x 4
+33.62pt>
+File: ../nodia/plots/boxplot-subclass-markedness-D-wo-hyps.pdf Graphic file (ty
+pe pdf)
+<use ../nodia/plots/boxplot-subclass-markedness-D-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-markedness-D-wo-hyps.p
+df  used on input line 437.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 437--438
+[][] 
+ []
+
+[35 <../nolow/plots/boxplot-subclass-markedness-D-wo-hyps.pdf>] [36 <../nodia/p
+lots/boxplot-subclass-markedness-D-wo-hyps.pdf>]
+Overfull \hbox (13.85463pt too wide) in paragraph at lines 441--441
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-morphology-corrected-with-
+ []
+
+<../plots/boxplot-subclass-morphology-corrected-with-hyps.pdf, id=664, 433.62pt
+ x 433.62pt>
+File: ../plots/boxplot-subclass-morphology-corrected-with-hyps.pdf Graphic file
+ (type pdf)
+<use ../plots/boxplot-subclass-morphology-corrected-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-morphology-corrected-with-hy
+ps.pdf  used on input line 447.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 447--448
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-morphology-corrected-with-hyps.pdf, id=665, 43
+3.62pt x 433.62pt>
+File: ../nolow/plots/boxplot-subclass-morphology-corrected-with-hyps.pdf Graphi
+c file (type pdf)
+<use ../nolow/plots/boxplot-subclass-morphology-corrected-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-morphology-corrected-w
+ith-hyps.pdf  used on input line 453.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 453--454
+[][] 
+ []
+
+[37 <../plots/boxplot-subclass-morphology-corrected-with-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-morphology-corrected-with-hyps.pdf, id=679, 43
+3.62pt x 433.62pt>
+File: ../nodia/plots/boxplot-subclass-morphology-corrected-with-hyps.pdf Graphi
+c file (type pdf)
+<use ../nodia/plots/boxplot-subclass-morphology-corrected-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-morphology-corrected-w
+ith-hyps.pdf  used on input line 459.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 459--460
+[][] 
+ []
+
+[38 <../nolow/plots/boxplot-subclass-morphology-corrected-with-hyps.pdf>]
+[39 <../nodia/plots/boxplot-subclass-morphology-corrected-with-hyps.pdf>]
+Overfull \hbox (69.3708pt too wide) in paragraph at lines 463--463
+[]\T1/cmr/bx/n/17.28 boxplot-subclass-morphology-corrected-wo-hyps.pdf 
+ []
+
+<../plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf, id=702, 433.62pt x
+ 433.62pt>
+File: ../plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf Graphic file (
+type pdf)
+<use ../plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-morphology-corrected-wo-hyps
+.pdf  used on input line 469.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 469--470
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf, id=703, 433.
+62pt x 433.62pt>
+File: ../nolow/plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf Graphic 
+file (type pdf)
+<use ../nolow/plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-morphology-corrected-w
+o-hyps.pdf  used on input line 475.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 475--476
+[][] 
+ []
+
+[40 <../plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf, id=715, 433.
+62pt x 433.62pt>
+File: ../nodia/plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf Graphic 
+file (type pdf)
+<use ../nodia/plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-morphology-corrected-w
+o-hyps.pdf  used on input line 481.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 481--482
+[][] 
+ []
+
+[41 <../nolow/plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf>]
+[42 <../nodia/plots/boxplot-subclass-morphology-corrected-wo-hyps.pdf>]
+<../plots/boxplot-subclass-plain-with-hyps.pdf, id=738, 433.62pt x 433.62pt>
+File: ../plots/boxplot-subclass-plain-with-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-subclass-plain-with-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-plain-with-hyps.pdf  used on
+ input line 491.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 491--492
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-plain-with-hyps.pdf, id=739, 433.62pt x 433.62
+pt>
+File: ../nolow/plots/boxplot-subclass-plain-with-hyps.pdf Graphic file (type pd
+f)
+<use ../nolow/plots/boxplot-subclass-plain-with-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-plain-with-hyps.pdf  u
+sed on input line 497.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 497--498
+[][] 
+ []
+
+[43 <../plots/boxplot-subclass-plain-with-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-plain-with-hyps.pdf, id=752, 433.62pt x 433.62
+pt>
+File: ../nodia/plots/boxplot-subclass-plain-with-hyps.pdf Graphic file (type pd
+f)
+<use ../nodia/plots/boxplot-subclass-plain-with-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-plain-with-hyps.pdf  u
+sed on input line 503.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 503--504
+[][] 
+ []
+
+[44 <../nolow/plots/boxplot-subclass-plain-with-hyps.pdf>] [45 <../nodia/plots/
+boxplot-subclass-plain-with-hyps.pdf>]
+<../plots/boxplot-subclass-plain-wo-hyps.pdf, id=775, 433.62pt x 433.62pt>
+File: ../plots/boxplot-subclass-plain-wo-hyps.pdf Graphic file (type pdf)
+<use ../plots/boxplot-subclass-plain-wo-hyps.pdf>
+Package pdftex.def Info: ../plots/boxplot-subclass-plain-wo-hyps.pdf  used on i
+nput line 513.
+(pdftex.def)             Requested size: 382.19833pt x 382.21535pt.
+
+Overfull \hbox (9.82315pt too wide) in paragraph at lines 513--514
+[][] 
+ []
+
+<../nolow/plots/boxplot-subclass-plain-wo-hyps.pdf, id=776, 433.62pt x 433.62pt
+>
+File: ../nolow/plots/boxplot-subclass-plain-wo-hyps.pdf Graphic file (type pdf)
+
+<use ../nolow/plots/boxplot-subclass-plain-wo-hyps.pdf>
+Package pdftex.def Info: ../nolow/plots/boxplot-subclass-plain-wo-hyps.pdf  use
+d on input line 519.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 519--520
+[][] 
+ []
+
+[46 <../plots/boxplot-subclass-plain-wo-hyps.pdf>]
+<../nodia/plots/boxplot-subclass-plain-wo-hyps.pdf, id=788, 433.62pt x 433.62pt
+>
+File: ../nodia/plots/boxplot-subclass-plain-wo-hyps.pdf Graphic file (type pdf)
+
+<use ../nodia/plots/boxplot-subclass-plain-wo-hyps.pdf>
+Package pdftex.def Info: ../nodia/plots/boxplot-subclass-plain-wo-hyps.pdf  use
+d on input line 525.
+(pdftex.def)             Requested size: 390.0pt x 390.0162pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 525--526
+[][] 
+ []
+
+[47 <../nolow/plots/boxplot-subclass-plain-wo-hyps.pdf>] [48 <../nodia/plots/bo
+xplot-subclass-plain-wo-hyps.pdf>]) (./printplots.aux) ) 
+Here is how much of TeX's memory you used:
+ 1775 strings out of 481239
+ 41703 string characters out of 5920378
+ 249157 words of memory out of 5000000
+ 17046 multiletter control sequences out of 15000+600000
+ 536801 words of font info for 31 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,4n,25p,224b,109s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts
+/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-sup
+er/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sftt1200.pfb>
+Output written on printplots.pdf (48 pages, 2306236 bytes).
+PDF statistics:
+ 830 PDF objects out of 1000 (max. 8388607)
+ 625 compressed objects within 7 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 361 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -11,6 +11,7 @@ The raw data come from <https://verbal-roots.la.utexas.edu/>.
 
 * `clean.sh`: Shell script used to remove all results (to start from scratch)
 * `data`: Data, both raw (a tab-separated file) and in RData format prepared for the analyses
+* `nodia`: Results of analyses after 'diacritic' languages have been removed (see below)
 * `nolow`: Results of analyses after low data languages have been removed (see below)
 * `plots`: Figures
 * `R`: Sources of scripts for all analyses
@@ -19,6 +20,7 @@ The raw data come from <https://verbal-roots.la.utexas.edu/>.
 * `Rsession`: Default folder to run an R session in (to keep the `R` folder free of data and history files)
 * `stats`: Results of statistical tests
 * `tables`: Data tables in TeX format
+* `tmp`: Sandbox folder for temporary stuff
 
 
 ## Overview of code logic
@@ -41,7 +43,7 @@ This will prepare the data, carry out the analyses (with and without hypothetica
 
 #### Ignore low data languages
 
-It is also possible to run the analyses without taking low-data languages into account. Again, from an R session in the `Rsession` folder:
+It is also possible to run the analyses without taking low-data languages into account. Again, from an R session in the `Rsession` folder, run the following (but only after the above steps have been taken to generate the main analysis):
 
 ``` r
 source("../R/batch_main_analysis_ignore_low.R")
@@ -49,6 +51,17 @@ batch_main_analysis_ignore_low()
 ```
 
 The output is into subfolders of the `nolow` directory.
+
+#### Ignore 'diacritic' languages
+
+Similarly, it is possible to ignore languages that have an asterisk or dagger in Table 6):
+
+``` r
+source("../R/batch_main_analysis_ignore_diacritics.R")
+batch_main_analysis_ignore_diacritics()
+```
+
+The output is into subfolders of the `nodia` directory.
 
 
 ### Monte Carlo runs

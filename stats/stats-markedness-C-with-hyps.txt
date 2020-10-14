@@ -2,14 +2,14 @@ Medians
 -------
 
 PC roots:	0.450956937799043 (45.1%)
-result roots:	0.192799070847851 (19.28%)
+result roots:	0.197560975609756 (19.76%)
 
 
 Means
 -----
 
 PC roots:	0.455509079930171
-result roots:	0.198704759202153
+result roots:	0.199101584598979
 
 
 Mann-Whitney U-test (two-tailed)
@@ -20,7 +20,7 @@ Null hypothesis: The distribution of PC roots is not different from the distribu
 U = 1291
 n1 = 36
 n2 = 36
-p = 4.61841463634567e-13
+p = 4.61643511986891e-13
 Decision (at the p < 0.001 level): Reject null hypothesis
 
 
@@ -32,7 +32,7 @@ Null hypothesis: The distribution of PC roots is not higher than (not shifted to
 U = 1291
 n1 = 36
 n2 = 36
-p = 2.30920731817284e-13
+p = 2.30821755993445e-13
 Decision (at the p < 0.001 level): Reject null hypothesis
 
 

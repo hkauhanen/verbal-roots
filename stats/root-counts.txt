@@ -2,7 +2,7 @@ Number of PC roots with data: 3368
 Number of result roots with data: 3500
 Number of paradigms with data: 6868
 Number of possible forms: 34340
-Number of attested forms: 15169
+Number of attested forms: 15127
 Number of hypothetical forms: 2957
 Number of PC roots, when only one synonym considered per language: 2712
 Number of result roots, when only one synonym considered per language: 2417

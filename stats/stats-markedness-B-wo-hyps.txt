@@ -9,7 +9,7 @@ Means
 -----
 
 PC roots:	0.790505889974577
-result roots:	0.265467379675507
+result roots:	0.265246921121715
 
 
 Mann-Whitney U-test (two-tailed)
