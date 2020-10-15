@@ -1,3 +1,3 @@
 plain, with_hyps
-Min. p-value: 1.49036676824044e-12
+Min. p-value: 1.47605021543429e-12
 Max. p-value: 1.74524048781956e-12

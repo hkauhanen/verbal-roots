@@ -1,3 +1,3 @@
 markedness_C, with_hyps
-Min. p-value: 1.51391487242642e-13
-Max. p-value: 3.20842238449603e-13
+Min. p-value: 1.51457425549815e-13
+Max. p-value: 2.9591761926397e-13
