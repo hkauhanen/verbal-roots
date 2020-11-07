@@ -35,6 +35,7 @@ batch_main_analysis_ignore_diacritics <- function() {
   cat("Printing tests and plots...")
   root_counts(datafile="../data/prepared_nodia.RData", outfile="../nodia/stats/root-counts.txt")
   print_tests(results="../nodia/results/filled_counts.RData", outfolder="../nodia/stats")
+  print_glmm(data_objects="../data/prepared_nodia.RData", outfolder="../nodia/stats")
   print_violinplots(results="../nodia/results/filled_counts.RData", outfolder="../nodia/plots")
   print_tables(results="../nodia/results/filled_counts.RData", folder="../nodia/tables")
   typology_magic(datafile="../data/prepared_nodia.RData", folder="../nodia/results")

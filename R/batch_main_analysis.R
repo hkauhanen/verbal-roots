@@ -31,6 +31,7 @@ batch_main_analysis <- function() {
   cat("Printing tests and plots...")
   root_counts()
   print_tests()
+  print_glmm(data_objects="../data/prepared.RData", outfolder="../stats")
   print_violinplots()
   print_tables()
   typology_magic()

@@ -35,6 +35,7 @@ batch_main_analysis_ignore_low <- function() {
   cat("Printing tests and plots...")
   root_counts(datafile="../data/prepared_nolow.RData", outfile="../nolow/stats/root-counts.txt")
   print_tests(results="../nolow/results/filled_counts.RData", outfolder="../nolow/stats")
+  print_glmm(data_objects="../data/prepared_nolow.RData", outfolder="../nolow/stats")
   print_violinplots(results="../nolow/results/filled_counts.RData", outfolder="../nolow/plots")
   print_tables(results="../nolow/results/filled_counts.RData", folder="../nolow/tables")
   typology_magic(datafile="../data/prepared_nolow.RData", folder="../nolow/results")

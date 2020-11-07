@@ -1,0 +1,29 @@
+Generalized linear mixed model fit by maximum likelihood (Laplace
+  Approximation) [glmerMod]
+ Family: binomial  ( logit )
+Formula: DV ~ Root.Class + (1 | Language) + (1 | Root)
+   Data: df
+
+     AIC      BIC   logLik deviance df.resid 
+  2069.6   2096.9  -1030.8   2061.6     6864 
+
+Scaled residuals: 
+     Min       1Q   Median       3Q      Max 
+-26.8444  -0.1132  -0.0311   0.1319  13.5775 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ Language (Intercept) 1.373    1.172   
+ Root     (Intercept) 3.735    1.933   
+Number of obs: 6868, groups:  Language, 88; Root, 72
+
+Fixed effects:
+                       Estimate Std. Error z value Pr(>|z|)    
+(Intercept)              3.8452     0.3787   10.15   <2e-16 ***
+Root.Classresult roots  -8.5543     0.5423  -15.77   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr)
+Rt.Clssrslr -0.665
