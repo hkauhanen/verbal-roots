@@ -2,7 +2,7 @@
 
 This repository contains R code required to replicate the typological analyses reported in the following publication:
 
-> Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & Stephen Nichols (under review) States and changes-of-state: a cross-linguistic study of the roots of verbal meaning.
+> Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & Stephen Nichols (in press) States and changes-of-state: a cross-linguistic study of the roots of verbal meaning. *Language*.
 
 The raw data come from <https://verbal-roots.la.utexas.edu/>.
 
@@ -99,4 +99,4 @@ This material is based upon work supported by the National Science Foundation un
 
 All code in this repository is licensed under [GNU GPL-3](LICENSE). If you use it in your work, please provide a link to <https://github.com/hkauhanen/verbal-roots> and cite the following publication:
 
-> Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & Stephen Nichols (under review) States and changes-of-state: a cross-linguistic study of the roots of verbal meaning.
+> Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & Stephen Nichols (in press) States and changes-of-state: a cross-linguistic study of the roots of verbal meaning. *Language*.
