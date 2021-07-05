@@ -1,6 +1,6 @@
 # verbal-roots
 
-[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.5069407.svg)](https://doi.org/10.5281/zenodo.5069407)
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.5069406.svg)](https://doi.org/10.5281/zenodo.5069406)
 
 This repository contains R code required to replicate the typological analyses reported in the following publication:
 
