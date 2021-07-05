@@ -1,5 +1,7 @@
 # verbal-roots
 
+[![DOI](https://zenodo.org/badge/280268740.svg)](https://zenodo.org/badge/latestdoi/280268740)
+
 This repository contains R code required to replicate the typological analyses reported in the following publication:
 
 > Beavers, John, Michael Everdell, Kyle Jerro, Henri Kauhanen, Andrew Koontz-Garboden, Elise LeBovidge & Stephen Nichols (in press) States and changes-of-state: a cross-linguistic study of the roots of verbal meaning. *Language*.
